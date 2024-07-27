@@ -29,6 +29,7 @@ Before you can start using the ChatBot, make sure you have the following prerequ
 5. Add your Google API key variable in the file. You can get your API key from here https://makersuite.google.com/app/apikey
    ```bash
    GOOGLE_API_KEY="Insert your google API key here"
+   gROQ_API_KEY="insert your llama 3 API key here"
    ```
 
 ## Run API on local server
